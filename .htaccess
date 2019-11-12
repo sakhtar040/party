@@ -1,0 +1,14 @@
+RewriteEngine on
+
+RewriteRule ^activity?$ activity.php
+RewriteRule ^contact?$ contact.php
+RewriteRule ^gallery?$ gallery.php
+RewriteRule ^home?$ index.php
+RewriteRule ^press?$ press.php
+RewriteRule ^timeline?$ timeline.php
+
+
+
+
+
+
